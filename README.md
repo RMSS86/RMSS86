@@ -22,7 +22,12 @@ const RMSS86 = {
 </p>
 
 > ***Online***
-<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+<p>
+ <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+ <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</p>
+
+	
 
 #### ***Stats***
 <a href="https://github.com/anuraghazra/github-readme-stats">
