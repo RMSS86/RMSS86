@@ -1,7 +1,7 @@
 ## Hey there, This is Robert!
  (こんにちは。ロバートです。)
 
-```| Full-Stack / Mobile / ML Developer```
+> Full-Stack - Mobile - ML Developer / Designer
 
 ```javascript
 const RMSS86 = {
