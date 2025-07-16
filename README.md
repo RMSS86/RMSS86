@@ -1,4 +1,4 @@
-## Hey there, This is Robert!
+## Hello there, This is Robert!
  (こんにちは。ロバートです。)
 
 > Full-Stack - Mobile - ML Developer / Designer
