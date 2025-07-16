@@ -2,7 +2,7 @@
  (こんにちは。ロバートです。)
  (Hallo, hier ist Robert!)
 
-```
+```javascript
 const RMSS86 = {
   code: [ "python", " JavaScript", "TypeScript", "Dart", "C++", "C#' ],
   tools: [ "React", "Flutter", "", "",],
