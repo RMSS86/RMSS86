@@ -23,7 +23,7 @@ const RMSS86 = {
 
 #### ***Stats***
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMSS86&show_icons=true&theme=dark)
+
 
 
 ***Thank you for visiting my GitHub profile. Currently, the majority of my repositories are private, and shortly, some demo projects will be updated***
