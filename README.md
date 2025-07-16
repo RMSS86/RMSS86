@@ -5,7 +5,7 @@
 
 ```javascript
 const RMSS86 = {
-  code: [ "Python", " JavaScript", "TypeScript", "Dart", "C++", "C#' ],
+  code: [ "Python", " JavaScript", "TypeScript", "Dart", "C++", "C#" ],
   tools: [ "React", "Flutter", "NodeJS" ],
   ML: [ "Tensorflow", "OpenCv", "MediaPipe" ],
   db: [ "SQL", "MongoDB", "Firebase" ],
