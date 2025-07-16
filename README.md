@@ -21,15 +21,6 @@ const RMSS86 = {
   </a>
 </p>
 
-> ***Online***
-<p align='center'>
- <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
- <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
- <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-</p>
-
-	
 
 #### ***Stats***
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -40,6 +31,15 @@ const RMSS86 = {
 </a>
 
 
+> ***Online***
+<p align='center'>
+ <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+ <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+ <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+ <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
+
+	
 
 ***Thank you for visiting my GitHub profile. Currently, the majority of my repositories are private, and shortly, some demo projects will be updated***
 (***GitHubプロフィールをご覧いただきありがとうございます。現在、リポジトリの大部分は非公開ですが、近日中にデモプロジェクトの一部を更新予定です***)
