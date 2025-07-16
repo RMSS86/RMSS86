@@ -22,16 +22,6 @@ const RMSS86 = {
 </p>
 
 
-#### ***Stats***
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RMSS86&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMSS86&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-
 > ***Online***
 <p align='center'>
  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
@@ -39,6 +29,15 @@ const RMSS86 = {
  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
  <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
+
+
+#### ***Stats***
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RMSS86&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMSS86&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 	
 
