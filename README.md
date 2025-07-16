@@ -3,6 +3,7 @@
 
 > Full-Stack - Mobile - ML Developer / Designer
 
+``` About me ```
 ```javascript
 const RMSS86 = {
   code: [ "Python", " JavaScript", "TypeScript", "Dart", "C++", "C#" ],
@@ -23,4 +24,4 @@ const RMSS86 = {
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMSS86)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMSS86&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-***Thank you for visiting my github profile, currently the mayority of my repositories are private, and shortly some demo projects will be updated***
+***Thank you for visiting my GitHub profile. Currently, the majority of my repositories are private, and shortly, some demo projects will be updated***
