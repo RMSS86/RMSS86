@@ -21,7 +21,7 @@ const RMSS86 = {
   </a>
 </p> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMSS86)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMSS86&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMSS86&show_icons=true&theme=dark)
+
 
 ***Thank you for visiting my GitHub profile. Currently, the majority of my repositories are private, and shortly, some demo projects will be updated***
