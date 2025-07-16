@@ -29,6 +29,8 @@ const RMSS86 = {
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMSS86&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+> ***Online***
+<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 
 ***Thank you for visiting my GitHub profile. Currently, the majority of my repositories are private, and shortly, some demo projects will be updated***
 (***GitHubプロフィールをご覧いただきありがとうございます。現在、リポジトリの大部分は非公開ですが、近日中にデモプロジェクトの一部を更新予定です***)
