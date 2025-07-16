@@ -1,4 +1,4 @@
-## Hello, I'm Roberto Solis-Stevenson
+## Hello, I'm Robert Solis-Stevenson
  (こんにちは。ロバートです。)
 
 > Full-Stack - Mobile - ML Developer / Designer
