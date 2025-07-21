@@ -2,7 +2,7 @@
 
 > Full-Stack - Mobile - ML Developer / Designer
 
-#### ***About me***
+#### ***Shortly About me***
 ```javascript
 const RMSS86 = {
   code: [ "Python", " JavaScript", "TypeScript", "Dart", "C++", "C#" ],
