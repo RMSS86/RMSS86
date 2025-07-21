@@ -1,5 +1,4 @@
 ## Hello, I'm Robert Solis-Stevenson
- (こんにちは。ロバートです。)
 
 > Full-Stack - Mobile - ML Developer / Designer
 
@@ -43,7 +42,9 @@ const RMSS86 = {
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RMSS86&show_icons=true&theme=dark" />
+   <a> (こんにちは。ロバートです。) </a>
   </a>
+  
 <!--   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMSS86&layout=compact&langs_count=8&card_width=320" />
   </a> -->
