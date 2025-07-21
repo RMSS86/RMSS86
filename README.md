@@ -22,7 +22,7 @@ const RMSS86 = {
 > ***Skills***
 <p align='center'>
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=py,js,ts,dart,cpp,cs,flutter,react,nextjs,mongodb,sqlite,supabase,firebase,css,html,sass,tailwind,git,aws,azure,docker,kubernetes,express,flask,graphql,tensorflow,opencv,gradle,ai,blender,unity,unreal' />
+    <img src='https://skillicons.dev/icons?i=py,js,ts,dart,cpp,cs,flutter,react,nextjs,mongodb,sqlite,supabase,firebase,sass,tailwind,git,aws,azure,docker,kubernetes,express,flask,graphql,tensorflow,opencv,gradle,ai,blender,unity,unreal' />
   </a>
 </p>
 
