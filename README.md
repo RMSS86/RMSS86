@@ -58,5 +58,5 @@ const RMSS86 = {
 
 
 ## Important
-***Thank you for visiting my GitHub profile. Currently, the majority of my repositories are private, and shortly, some demo projects will be updated***
+***Thank you for visiting my GitHub profile. Currently, the majority of my repositories are private, shortly, some demo projects will be updated***
 (***GitHubプロフィールをご覧いただきありがとうございます。現在、リポジトリの大部分は非公開ですが、近日中にデモプロジェクトの一部を更新予定です***)
