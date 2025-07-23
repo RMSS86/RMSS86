@@ -6,14 +6,14 @@
 ```javascript
 const RMSS86 = {
   code: [ "Python", " JavaScript", "TypeScript", "Dart", "C++", "C#" ],
-  tools: [ "React", "Flutter", "NodeJS" ],
+  tools: [ "React", "Flutter", "NodeJS", "Docker", "Kubernetes" ],
   ML: [ "Tensorflow", "OpenCv", "MediaPipe" ],
   db: [ "SQL", "MongoDB", "Firebase" ],
   clouds: [ "AWS", "Azure" ],
   resources: [
     {
       "online": ["Udemy", "Codecademy", "grow.google"],
-      "Blog": ["Medium", "Blogger"],
+      "Blog": ["Medium", "Blogger", "DEV"],
     }
   ]
 };
