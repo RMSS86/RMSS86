@@ -54,9 +54,11 @@ const RMSS86 = {
 
 #### ***Designs***
 ![porforlio_A](https://github.com/RMSS86/mobile_assets_manager_demo/blob/main/frontend/public/media/UI_remake_desk.png)
+Check out the code here! https://github.com/RMSS86/mobile_assets_manager_demo
+
 ( Pending / 保留中 )
 
 
 ## Important
-***Thank you for visiting my GitHub profile. Currently, the majority of my repositories are private, shortly, some demo projects will be updated***
+***Thank you for visiting my GitHub profile. Currently, the majority of my repositories are private. Shortly, some demo projects will be updated***
 (***GitHubプロフィールをご覧いただきありがとうございます。現在、リポジトリの大部分は非公開ですが、近日中にデモプロジェクトの一部を更新予定です***)
