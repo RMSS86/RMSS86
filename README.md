@@ -56,6 +56,8 @@ const RMSS86 = {
 ![porforlio_A](https://github.com/RMSS86/mobile_assets_manager_demo/blob/main/frontend/public/media/UI_remake_desk.png)
 ```Check out the code here!``` https://github.com/RMSS86/mobile_assets_manager_demo
 
+![porforlio_B]([https://github.com/RMSS86/mobile_assets_manager_demo/blob/main/frontend/public/media/UI_remake_desk.png)
+```Check out the code here!``` [https://github.com/RMSS86/mobile_assets_manager_demo](https://github.com/RMSS86/travel-R_demo_app)
 ( Pending / 保留中 )
 
 
