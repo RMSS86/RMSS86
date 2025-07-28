@@ -53,12 +53,15 @@ const RMSS86 = {
 
 
 #### ***Designs***
+> Easy Assets Manager demo [e-AM]
 ![porforlio_A](https://github.com/RMSS86/mobile_assets_manager_demo/blob/main/frontend/public/media/UI_remake_desk.png)
 ```Check out the code here!``` https://github.com/RMSS86/mobile_assets_manager_demo
 
+> Travel-uR demo
 ![porforlio_B](https://github.com/RMSS86/travel-R_demo_app/blob/main/frontend/src/assets/repo/Travel-uR_homepage-design_desktop.png)
 ```Check out the code here!``` https://github.com/RMSS86/travel-R_demo_app
 
+> Touchless Interactive Manager demo [T.I.M.]
 ![porfolio_c](https://github.com/RMSS86/touchless_interactive_manager_demo/blob/main/FrontEnd/public/media/homepage_simple.png)
 ```Check out the code here!``` https://github.com/RMSS86/touchless_interactive_manager_demo
 
