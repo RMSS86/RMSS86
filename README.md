@@ -63,7 +63,7 @@ const RMSS86 = {
 
 > Touchless Interactive Manager demo [T.I.M.]
 ![porfolio_c](https://github.com/RMSS86/touchless_interactive_manager_demo/blob/main/FrontEnd/public/media/homepage_simple.png)
-(https://github.com/RMSS86/touchless_interactive_manager_demo/blob/main/FrontEnd/public/media/UserPage_offline_mode.png)
+![](https://github.com/RMSS86/touchless_interactive_manager_demo/blob/main/FrontEnd/public/media/UserPage_offline_mode.png)
 
 ( More Pending / 保留中 )
 
